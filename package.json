@@ -1,7 +1,7 @@
 {
-  "name": "ssr",
+  "name": "ssr-nextjs-lad",
   "version": "0.0.1",
-  "description": "Educational project to study SSR",
+  "description": "Educational project to study Nextjs",
   "main": "index.js",
   "dependencies": {
     "axios": "^0.19.0",
@@ -19,5 +19,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "konstsem",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konstsem/ssr-nextjs-lad.git"
+  },
+  "keywords": [
+    "nextjs",
+    "ssr"
+  ],
+  "bugs": {
+    "url": "https://github.com/konstsem/ssr-nextjs-lad/issues"
+  },
+  "homepage": "https://github.com/konstsem/ssr-nextjs-lad#readme"
 }

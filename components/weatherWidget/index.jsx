@@ -30,10 +30,6 @@ function App() {
       </form>
       <List cities={cities} removeWidget={removeWidget} />
       <style jsx global>{`
-        .App {
-          text-align: center;
-        }
-
         .container {
           padding: 20px;
         }
